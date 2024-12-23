@@ -1,0 +1,28 @@
+/* Write your code here. */
+.gallery-app {
+  background-color: #1e293b;
+  color: #ffffff;
+  font-family: 'Roboto';
+  text-align: center;
+  padding: 20px;
+}
+
+.selected-image {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.gallery-heading {
+  margin: 20px 0;
+  font-size: 24px;
+}
+
+.thumbnails-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0;
+}

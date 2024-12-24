@@ -1,4 +1,9 @@
 /* Write your code here. */
+
+* {
+  border: 1px solid green;
+}
+
 .gallery-app {
   background-color: #1e293b;
   color: #ffffff;
